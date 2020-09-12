@@ -36,8 +36,8 @@
 		<div class="avatar">
 		</div>
 		<div class="information">
-			<h1>Jake Hamblin</h1>
-			<h2>Website developer and software programmer</h2>
+			<h1><?php echo $name ?></h1>
+			<h2><?php echo $description ?></h2>
 			<div class="socialmedia">
 				<?php 
 					foreach ($socialmedia as $link => $classes) {
