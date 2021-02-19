@@ -9,8 +9,8 @@
 	/////////////////////////////////////////////////////////////////////////
 
 	// General Site Information
-	$name = "Jake Hamblin"; // Name you want to appear throughout the website. EX: Jake Hamblin
-	$domain = "https://projects.jakehamblin.com/splashpage"; // The full link to your domain including HTTP. EX: https://jakehamblin.com
+	$name = "Fireborn"; // Name you want to appear throughout the website. EX: Jake Hamblin
+	$domain = "https://fireborn.netlify.app"; // The full link to your domain including HTTP. EX: https://jakehamblin.com
 	$logo = "https://jakehamblin.com/images/logo.png"; // Link to the logo to appear throughout the website. EX: https://jakehamblin.com/images/logo.png
 	$color = "3fa3eb"; // Color you want to use throughout the website in HEX form excluding the hashtag. EX: 3fa3eb
 	$description = "Software programmer and website developer"; // Description of the website that will appear in the embed. EX: Software programmer and website developer
